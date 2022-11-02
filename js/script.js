@@ -35,6 +35,7 @@ $(menuBtn).on('clickout',function(event){
         setTimeout(() => {
             menuNav.classList.add('inactive');
         }, 200);
+        parte1();
     }
 });
     

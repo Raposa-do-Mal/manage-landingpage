@@ -238,7 +238,7 @@
 
 .section3 {
     margin-top: 120px;
-    background: #f3613c url(./images/bg-simplify-section-desktop.svg) no-repeat;
+    background: #f3613c url(/images/bg-simplify-section-desktop.svg) no-repeat;
     background-size: cover;
     background-position: 10px;
     padding: 80px 0;

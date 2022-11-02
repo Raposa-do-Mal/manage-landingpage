@@ -318,7 +318,7 @@
     /* Section3 */
 
     .section3 {
-        background: #f3613c url(/images/bg-simplify-section-mobile.svg) no-repeat cover;
+        background: #f3613c url(./images/bg-simplify-section-mobile.svg) no-repeat cover;
         background-position: 30px;
         text-align: center;
         margin-top: 60px;

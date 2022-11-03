@@ -279,17 +279,13 @@
         margin: 0;
     }
 
-    .section1 .section1-item h1, .section1 .section1-item p {
-        text-align: center
-    }
-
     .section1 .section1-item h1 {
         font-size: 24px;
         line-height: 30px;
     }
 
     .section1 .section1-item p {
-        margin: 0 auto 40px auto;
+        margin-bottom: 40px;
         max-width: 300px;
     }
 

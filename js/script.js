@@ -16,7 +16,7 @@ function toggleClass2() {
 }
 
 function toggleClass1() {
-    menuBtn.onclick = function parte1() {
+    menuBtn.onclick = function() {
         menuNav.classList.remove('inactive'); 
         setTimeout(() => {
             menuNav.classList.add('menuActive');

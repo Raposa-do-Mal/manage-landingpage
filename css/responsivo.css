@@ -101,8 +101,7 @@
 
   .section3 {
     margin-top: 60px;
-    background: #f3613c url(/images/bg-simplify-section-mobile.svg) no-repeat
-      cover;
+    background: #f3613c url(/images/bg-simplify-section-mobile.svg) no-repeat cover;
     background-position: 30px;
   }
 
@@ -325,11 +324,10 @@
   /* Section3 */
 
   .section3 {
-    background: #f3613c url(/images/bg-simplify-section-mobile.svg) no-repeat
-      cover;
+    margin-top: 60px;
+    background: #f3613c url(/images/bg-simplify-section-mobile.svg) no-repeat cover;
     background-position: 30px;
     text-align: center;
-    margin-top: 60px;
   }
 
   .section3 a,

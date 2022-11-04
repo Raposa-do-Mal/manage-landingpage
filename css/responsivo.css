@@ -311,11 +311,11 @@
     margin-top: 20px;
   }
 
-  .section2 .section2-item2 div {
+  .section2 .section2-item2 {
     width: 360px;
   }
 
-  .section2 .section2-item2 div blockquote p {
+  .section2 .section2-item2 blockquote p {
     max-width: 300px;
   }
 

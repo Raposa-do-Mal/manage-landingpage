@@ -188,20 +188,20 @@
   font-size: 36px;
 }
 
-.section2 .section2-item2 div {
+.section2 .section2-item2 {
   width: 540px;
   height: 210px;
   background: #fff0eb;
   margin: 0 auto 55px auto;
 }
 
-.section2 .section2-item2 div img {
+.section2 .section2-item2 img {
   width: 70px;
   display: inline-block;
   margin-top: -35px;
 }
 
-.section2 .section2-item2 div blockquote span p {
+.section2 .section2-item2 blockquote span p {
   font-family: 'Be Vietnam Pro', sans-serif;
   color: #242e52;
   font-size: 16px;
@@ -211,7 +211,7 @@
   margin: 20px 0;
 }
 
-.section2 .section2-item2 div blockquote p {
+.section2 .section2-item2 blockquote p {
   font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 16px;
   line-height: 20px;
@@ -221,7 +221,7 @@
   margin: 0 auto;
 }
 
-.section2 .container a {
+.section2 > a {
   font-family: 'Be Vietnam Pro', sans-serif;
   background: #f3613c;
   font-weight: 500;
